@@ -1,0 +1,21 @@
+.main-nav{
+  background-color: rgb(148, 148, 148);}
+.nav-text:hover{
+  color: rgb(31, 173, 255);
+  transform:scale(1.05);
+  animation: slidebg 0.5s linear;
+
+} 
+@keyframes slidebg {
+  to {
+    background-position: 13.9vw;
+  }
+}
+.dropdown-text:hover{
+  transform: none;
+  color: rgb(31, 173, 255);
+}
+#collasible-nav-dropdown:hover{
+  color: rgb(31, 173, 255);
+  transform:scale(1.05);
+}
