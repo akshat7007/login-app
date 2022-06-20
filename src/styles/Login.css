@@ -1,3 +1,8 @@
+/* .App{
+  background-color: black;
+  color: #c62828;
+} */
+
 .parent-div {
   display: flex;
   justify-content: center;
@@ -5,6 +10,7 @@
 }
 
 .example-div {
+
   display: inline-block;
   position: absolute;
   top: 5%;
